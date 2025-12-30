@@ -1,4 +1,4 @@
-GitHub Portfolio API
+# GitHub Portfolio API
 
 This project is a sophisticated portfolio management system that integrates with the GitHub API.
 It demonstrates advanced backend capabilities, focusing on data mapping, API optimization, and a
